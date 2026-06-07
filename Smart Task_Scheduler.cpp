@@ -19,9 +19,9 @@ Key Features:
 - Pending and completed task management
 
 Data Structures Used:
-1. Linked List (STL List)
+1 Linked List (STL List)
    - Stores active and completed tasks.
-2. Binary Search Tree (BST)
+2 Binary Search Tree (BST)
    - Organizes tasks according to priority.
 
 Technologies:
