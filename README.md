@@ -1,7 +1,7 @@
 # Smart Task Scheduler & Productivity Tracker
 
 # Overview
-A C++ task management application that uses Linked Lists and Binary Search Trees for task organization and priority-based scheduling.
+C++ task management application that uses Linked Lists and Binary Search Trees for task organization and priority-based scheduling.
 
 # Features
 - Smart Priority Recommendation
